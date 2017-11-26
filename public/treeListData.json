@@ -1,0 +1,24 @@
+[  
+  {"kid":"01","kname":"综合指标","hasChild":"1","pid":"-1"},  
+  {"kid":"02","kname":"分析类指标","hasChild":"1","pid":"-1"},  
+  {"kid":"03","kname":"组合指标","hasChild":"1","pid":"-1"},  
+  {"kid":"04","kname":"移动业务计费收入","hasChild":"1","pid":"-1"},  
+  {"kid":"05","kname":"2G业务","hasChild":"1","pid":"-1"},
+  {"kid":"010","kname":"综合指标1","hasChild":"1","pid":"01"},  
+  {"kid":"011","kname":"分析类指标1","hasChild":"1","pid":"01"},  
+  {"kid":"012","kname":"组合指标1","hasChild":"1","pid":"01"},  
+  {"kid":"013","kname":"移动业务计费收入1","hasChild":"1","pid":"01"},  
+  {"kid":"014","kname":"2G业务1","hasChild":"1","pid":"01"} ,
+  {"kid":"0100","kname":"综合指标000","hasChild":"0","pid":"010"},  
+  {"kid":"0101","kname":"分析类指标000","hasChild":"0","pid":"010"},  
+  {"kid":"0102","kname":"组合指标000","hasChild":"0","pid":"010"},  
+  {"kid":"0103","kname":"移动业务计费收入000","hasChild":"0","pid":"010"},  
+  {"kid":"0104","kname":"2G业务000","hasChild":"0","pid":"010"},
+  {"kid":"0100","kname":"综合指标000","hasChild":"0","pid":"010"},  
+  {"kid":"0101","kname":"分析类指标000","hasChild":"0","pid":"010"},  
+  {"kid":"0102","kname":"组合指标000","hasChild":"0","pid":"010"},  
+  {"kid":"0103","kname":"移动业务计费收入000","hasChild":"0","pid":"010"},  
+  {"kid":"0104","kname":"2G业务000","hasChild":"0","pid":"010"}  
+]
+
+

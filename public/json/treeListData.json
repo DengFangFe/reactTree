@@ -1,0 +1,34 @@
+// [  
+//   {"kid":"01","kname":"综合指标","hasChild":"1","pid":"-1"},  
+//   {"kid":"02","kname":"分析类指标","hasChild":"1","pid":"-1"},  
+//   {"kid":"03","kname":"组合指标","hasChild":"1","pid":"-1"},  
+//   {"kid":"04","kname":"移动业务计费收入","hasChild":"1","pid":"-1"},  
+//   {"kid":"05","kname":"2G业务","hasChild":"1","pid":"-1"}  
+// ]
+
+
+{
+    "name": "BeJson",
+    "url": "http://www.bejson.com",
+    "page": 88,
+    "isNonProfit": true,
+    "address": {
+        "street": "科技园路.",
+        "city": "江苏苏州",
+        "country": "中国"
+    },
+    "links": [
+        {
+            "name": "Google",
+            "url": "http://www.google.com"
+        },
+        {
+            "name": "Baidu",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "SoSo",
+            "url": "http://www.SoSo.com"
+        }
+    ]
+}
